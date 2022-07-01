@@ -1,6 +1,6 @@
 # JSON-Array
 
-The [ (square bracket) represents the json array.
+The "[" (square bracket) represents the json array.
 
 
 
